@@ -35,8 +35,9 @@ Syntax highlighted code block
 </p>
 <!-- Calendly inline widget end -->
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> 
+<script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<script> var x = document.getElementsByClassName("site-footer-owner"); setTimeout(() => { x[0].remove(); }, 10); </script>
 <!-- Custom Codes Ends-->
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
