@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 <!-- Calendly inline widget begin -->
 <p align="center">
-<div class="calendly-inline-widget" data-url="https://calendly.com/angap92/test" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/angap92/test" style="min-width:320px;height:1000px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 </p>
 <!-- Calendly inline widget end -->
