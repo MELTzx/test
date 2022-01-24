@@ -26,6 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+<!-- Calendly inline widget begin -->
+<p align="center">
+<div class="calendly-inline-widget" data-url="https://calendly.com/angap92/test" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+</p>
+<!-- Calendly inline widget end -->
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
