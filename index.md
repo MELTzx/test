@@ -26,12 +26,18 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+<!-- Custom Codes Start -->
+
 <!-- Calendly inline widget begin -->
 <p align="center">
 <div class="calendly-inline-widget" data-url="https://calendly.com/angap92/test" style="min-width:320px;height:1000px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 </p>
 <!-- Calendly inline widget end -->
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+
+<!-- Custom Codes Ends-->
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
